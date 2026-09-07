@@ -79,6 +79,13 @@ I enjoy working close to the backend — designing clean APIs, managing data flo
 
 ---
 
+### 🏆 LeetCode Stats
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-100rabheimer-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/100rabheimer/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/100rabheimer?theme=dark&font=baloo&ext=heatmap)
+
+
 ## Language & Activity
 
 <p align="center">
