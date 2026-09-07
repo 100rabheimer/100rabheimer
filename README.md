@@ -3,9 +3,7 @@
 ## About Me
 
 I am a **Backend-GenAI Full Stack Developer** and B.Tech Information Technology student (Class of 2028) at KIET Group of Institutions.  
-I currently work as a **Backend Developer Intern (Full Stack / AI)** at **FlyRankAI**, where I build secure RESTful services, scraping pipelines, and multi-tenant metering systems.
 
-Previously, I completed a Machine Learning internship where I designed and built **InvoiceIQ**, an AI-powered invoice processing system using OCR and LayoutLM.
 
 I enjoy working close to the backend — designing clean APIs, managing data flows, containerizing services, and ensuring systems behave reliably under load.
 
