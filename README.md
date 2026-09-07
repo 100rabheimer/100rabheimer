@@ -93,9 +93,24 @@ I enjoy working close to the backend — designing clean APIs, managing data flo
 ---
 
 ## Contact
-
-- **GitHub:** https://github.com/100rabheimer  
-- **LinkedIn:** https://www.linkedin.com/in/saurabh-pandey-46532032b/  
-- **LeetCode:** https://leetcode.com/u/100rabheimer/  
-- **Email:** shaurabhipandey@gmail.com  
-- **Phone:** +91-7897096107
+<p align="center">
+  <a href="https://github.com/100rabheimer">
+    <img src="https://img.shields.io/badge/GitHub-100rabheimer-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/saurabh-pandey-46532032b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/100rabheimer/">
+    <img src="https://img.shields.io/badge/LeetCode-100rabheimer-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="mailto:shaurabhipandey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shaurabhipandey%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="tel:+917897096107">
+    <img src="https://img.shields.io/badge/Phone-+91%207897096107-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
